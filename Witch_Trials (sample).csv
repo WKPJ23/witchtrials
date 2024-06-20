@@ -1,0 +1,1501 @@
+Age,Year of Birth,Year of Execution,Gender,Country_of_Birth,Execution_Style,Confessed,Married
+17,1598,1615,Female,France,Burned at the Stake,Yes,Yes
+56,1711,1767,Female,Poland,Burned at the Stake,Yes,Yes
+40,1474,1514,Female,Germany,Tortured,Yes,No
+27,1431,1458,Male,Spain,Burned at the Stake,Yes,No
+44,1714,1758,Male,Germany,Burned at the Stake,No,No
+70,1534,1604,Female,Scotland,Hanged,No,No
+50,1636,1686,Female,Estonia,Drowned,No,No
+39,1437,1476,Male,Poland,Burned at the Stake,Yes,No
+42,1608,1650,Female,Ireland,Hanged,No,No
+33,1540,1573,Male,Scotland,Tortured,No,Yes
+58,1680,1738,Female,Netherlands,Burned at the Stake,No,Yes
+54,1800,1854,Female,France,Burned at the Stake,No,Yes
+21,1412,1433,Female,Scotland,Tortured,No,Yes
+43,1425,1468,Male,Scotland,Hanged,No,No
+51,1300,1351,Female,Austria,Hanged,Yes,No
+61,1800,1861,Female,Poland,Drowned,No,No
+55,1393,1448,Male,France,Burned at the Stake,Yes,No
+43,1800,1843,Male,Spain,Drowned,No,Yes
+48,1740,1788,Female,Belgium,Burned at the Stake,No,Yes
+39,1562,1601,Female,Germany,Burned at the Stake,No,No
+62,1347,1409,Female,Scotland,Drowned,No,Yes
+23,1505,1528,Female,Germany,Hanged,Yes,No
+55,1300,1355,Male,France,Hanged,Yes,Yes
+52,1432,1484,Male,Germany,Burned at the Stake,No,No
+42,1300,1342,Male,Germany,Pressed,Yes,No
+43,1547,1590,Female,Poland,Burned at the Stake,Yes,Yes
+67,1690,1757,Female,Germany,Pressed,Yes,Yes
+63,1541,1604,Female,France,Hanged,No,No
+67,1512,1579,Female,Austria,Burned at the Stake,No,Yes
+17,1630,1647,Female,Poland,Burned at the Stake,Yes,No
+72,1590,1662,Male,England,Hanged,No,No
+23,1562,1585,Female,Netherlands,Burned at the Stake,Yes,No
+33,1480,1513,Female,France,Burned at the Stake,No,No
+47,1570,1617,Female,Poland,Hanged,Yes,No
+45,1646,1691,Female,Spain,Pressed,No,No
+42,1428,1470,Female,France,Hanged,No,No
+39,1489,1528,Female,Germany,Drowned,Yes,No
+42,1735,1777,Male,Austria,Hanged,No,No
+41,1568,1609,Female,Belgium,Tortured,Yes,No
+54,1365,1419,Male,Germany,Hanged,Yes,No
+26,1800,1826,Female,Austria,Burned at the Stake,No,No
+37,1749,1786,Male,England,Burned at the Stake,Yes,Yes
+55,1540,1595,Female,Ireland,Drowned,Yes,No
+27,1534,1561,Female,Netherlands,Tortured,Yes,No
+62,1777,1839,Male,Spain,Burned at the Stake,Yes,No
+56,1560,1616,Female,Austria,Hanged,Yes,No
+62,1412,1474,Male,Estonia,Burned at the Stake,Yes,No
+56,1588,1644,Female,France,Burned at the Stake,Yes,No
+38,1786,1824,Female,Austria,Burned at the Stake,No,No
+55,1351,1406,Female,Spain,Tortured,Yes,No
+50,1728,1778,Female,Spain,Burned at the Stake,No,Yes
+43,1427,1470,Female,Poland,Burned at the Stake,Yes,No
+50,1673,1723,Female,Scotland,Burned at the Stake,Yes,No
+51,1431,1482,Female,Germany,Hanged,Yes,No
+37,1723,1760,Female,Austria,Hanged,Yes,Yes
+27,1636,1663,Male,Poland,Burned at the Stake,Yes,Yes
+24,1558,1582,Male,Germany,Burned at the Stake,No,Yes
+44,1542,1586,Female,Germany,Pressed,No,No
+57,1426,1483,Female,Sweden,Hanged,No,No
+59,1386,1445,Female,Spain,Burned at the Stake,Yes,No
+36,1429,1465,Female,Austria,Burned at the Stake,Yes,No
+44,1473,1517,Female,England,Pressed,No,Yes
+74,1300,1374,Female,Scotland,Hanged,Yes,No
+46,1331,1377,Female,Austria,Hanged,No,Yes
+48,1486,1534,Female,Belgium,Burned at the Stake,Yes,Yes
+38,1586,1624,Female,England,Burned at the Stake,Yes,No
+36,1571,1607,Female,Austria,Burned at the Stake,No,No
+46,1542,1588,Female,England,Tortured,Yes,Yes
+44,1300,1344,Female,Germany,Burned at the Stake,Yes,No
+11,1528,1539,Female,England,Hanged,No,No
+61,1524,1585,Female,Spain,Hanged,Yes,No
+69,1438,1507,Female,Spain,Tortured,Yes,No
+54,1544,1598,Female,Poland,Drowned,No,No
+62,1360,1422,Male,Germany,Burned at the Stake,No,No
+49,1594,1643,Female,France,Hanged,Yes,Yes
+30,1582,1612,Male,France,Tortured,No,No
+25,1361,1386,Male,Germany,Hanged,No,Yes
+32,1323,1355,Female,France,Tortured,No,Yes
+46,1668,1714,Female,France,Burned at the Stake,Yes,Yes
+40,1679,1719,Female,England,Tortured,Yes,Yes
+54,1617,1671,Female,Austria,Burned at the Stake,Yes,Yes
+28,1800,1828,Male,Austria,Hanged,No,No
+34,1612,1646,Male,Norway,Drowned,No,No
+53,1613,1666,Female,Spain,Tortured,Yes,No
+68,1344,1412,Female,France,Burned at the Stake,Yes,No
+44,1443,1487,Female,Spain,Hanged,Yes,Yes
+53,1612,1665,Male,France,Tortured,No,No
+41,1582,1623,Male,France,Pressed,Yes,No
+33,1549,1582,Male,England,Burned at the Stake,Yes,No
+56,1439,1495,Female,Germany,Hanged,Yes,No
+39,1589,1628,Male,Ireland,Drowned,No,No
+40,1440,1480,Male,Norway,Burned at the Stake,No,No
+46,1307,1353,Female,France,Tortured,Yes,Yes
+69,1486,1555,Female,Germany,Tortured,Yes,No
+48,1796,1844,Male,Spain,Burned at the Stake,No,No
+18,1800,1818,Female,Germany,Hanged,Yes,No
+48,1716,1764,Male,France,Hanged,No,No
+38,1565,1603,Female,Estonia,Pressed,Yes,No
+36,1505,1541,Female,Spain,Drowned,No,Yes
+38,1477,1515,Male,Germany,Hanged,Yes,Yes
+71,1528,1599,Female,Ireland,Hanged,No,Yes
+62,1700,1762,Female,Germany,Burned at the Stake,No,No
+9,1416,1425,Female,England,Drowned,Yes,No
+23,1496,1519,Female,Austria,Pressed,No,No
+47,1699,1746,Female,France,Burned at the Stake,No,No
+38,1554,1592,Female,Germany,Pressed,Yes,No
+38,1716,1754,Female,Austria,Hanged,Yes,No
+48,1723,1771,Male,France,Hanged,Yes,No
+64,1602,1666,Male,Ireland,Hanged,Yes,No
+68,1577,1645,Female,Estonia,Hanged,No,No
+57,1368,1425,Female,Germany,Pressed,Yes,No
+41,1611,1652,Female,Poland,Hanged,No,No
+36,1613,1649,Female,Estonia,Drowned,Yes,No
+28,1587,1615,Male,France,Hanged,Yes,No
+46,1645,1691,Male,Estonia,Hanged,Yes,No
+46,1681,1727,Female,Spain,Burned at the Stake,No,No
+56,1357,1413,Female,Germany,Tortured,Yes,Yes
+56,1660,1716,Male,Spain,Burned at the Stake,No,No
+28,1448,1476,Female,France,Burned at the Stake,No,No
+70,1614,1684,Female,Austria,Drowned,Yes,No
+45,1589,1634,Male,France,Pressed,No,No
+30,1531,1561,Female,France,Drowned,Yes,No
+33,1426,1459,Female,England,Pressed,No,Yes
+30,1443,1473,Female,Norway,Burned at the Stake,No,No
+59,1614,1673,Male,Netherlands,Pressed,Yes,No
+44,1643,1687,Female,France,Burned at the Stake,Yes,Yes
+33,1758,1791,Male,Germany,Hanged,No,No
+31,1565,1596,Male,Austria,Tortured,Yes,No
+50,1490,1540,Female,Scotland,Hanged,Yes,No
+44,1511,1555,Female,Poland,Pressed,No,Yes
+42,1648,1690,Female,France,Pressed,Yes,Yes
+31,1800,1831,Female,France,Burned at the Stake,No,No
+37,1433,1470,Male,Spain,Hanged,Yes,Yes
+39,1357,1396,Female,Spain,Drowned,Yes,No
+37,1682,1719,Female,Austria,Burned at the Stake,Yes,No
+37,1720,1757,Female,Germany,Burned at the Stake,No,Yes
+51,1681,1732,Female,Spain,Hanged,Yes,No
+57,1300,1357,Female,Germany,Hanged,Yes,No
+18,1550,1568,Female,France,Burned at the Stake,Yes,No
+57,1793,1850,Female,France,Burned at the Stake,Yes,No
+31,1641,1672,Female,Germany,Hanged,Yes,No
+69,1371,1440,Female,Spain,Tortured,No,No
+70,1637,1707,Female,Spain,Burned at the Stake,Yes,No
+9,1543,1552,Female,Austria,Hanged,Yes,No
+56,1494,1550,Female,Germany,Hanged,Yes,No
+53,1300,1353,Male,Austria,Burned at the Stake,No,No
+49,1695,1744,Male,Scotland,Burned at the Stake,Yes,No
+22,1598,1620,Male,Poland,Drowned,Yes,No
+28,1401,1429,Female,Netherlands,Hanged,Yes,No
+48,1495,1543,Female,Scotland,Hanged,Yes,No
+50,1593,1643,Female,Spain,Hanged,Yes,No
+45,1412,1457,Female,Estonia,Burned at the Stake,No,No
+47,1572,1619,Female,France,Hanged,Yes,Yes
+61,1300,1361,Female,Germany,Drowned,Yes,No
+68,1341,1409,Female,Germany,Burned at the Stake,Yes,No
+46,1789,1835,Female,Scotland,Hanged,Yes,No
+31,1439,1470,Female,Austria,Hanged,No,Yes
+35,1564,1599,Male,Spain,Pressed,No,No
+58,1490,1548,Female,Germany,Tortured,No,No
+30,1515,1545,Male,Poland,Pressed,Yes,No
+55,1689,1744,Female,Austria,Hanged,No,Yes
+13,1567,1580,Male,France,Burned at the Stake,No,No
+34,1648,1682,Male,Netherlands,Hanged,No,No
+40,1362,1402,Male,Austria,Drowned,Yes,No
+44,1479,1523,Male,Poland,Pressed,No,No
+44,1800,1844,Female,France,Hanged,No,No
+48,1611,1659,Male,France,Burned at the Stake,No,Yes
+28,1555,1583,Male,Scotland,Hanged,No,No
+41,1756,1797,Male,Spain,Pressed,No,No
+34,1590,1624,Female,Germany,Pressed,Yes,Yes
+35,1766,1801,Female,England,Hanged,Yes,No
+49,1636,1685,Male,Spain,Burned at the Stake,No,No
+39,1368,1407,Female,France,Burned at the Stake,No,No
+61,1534,1595,Female,Austria,Burned at the Stake,No,No
+57,1553,1610,Female,Spain,Hanged,Yes,Yes
+48,1639,1687,Female,Poland,Tortured,No,No
+56,1682,1738,Female,France,Hanged,Yes,No
+68,1672,1740,Male,Estonia,Burned at the Stake,No,No
+48,1517,1565,Female,Germany,Hanged,Yes,No
+69,1515,1584,Female,France,Burned at the Stake,Yes,Yes
+58,1376,1434,Female,Austria,Burned at the Stake,Yes,No
+47,1719,1766,Male,Spain,Drowned,Yes,No
+27,1774,1801,Female,Scotland,Burned at the Stake,No,Yes
+45,1634,1679,Male,Spain,Drowned,No,No
+42,1644,1686,Female,Scotland,Hanged,No,Yes
+60,1321,1381,Female,Belgium,Burned at the Stake,No,Yes
+62,1800,1862,Female,Estonia,Drowned,No,Yes
+12,1662,1674,Male,France,Drowned,No,No
+38,1470,1508,Male,Estonia,Drowned,No,No
+45,1526,1571,Female,Poland,Drowned,Yes,No
+74,1380,1454,Female,Poland,Hanged,No,No
+62,1437,1499,Female,France,Burned at the Stake,No,No
+45,1607,1652,Male,Spain,Pressed,Yes,No
+45,1300,1345,Female,Germany,Pressed,No,No
+58,1498,1556,Female,Spain,Hanged,Yes,No
+68,1642,1710,Female,France,Burned at the Stake,Yes,No
+72,1778,1850,Female,Ireland,Hanged,Yes,No
+51,1636,1687,Female,France,Pressed,Yes,No
+54,1594,1648,Male,Poland,Burned at the Stake,No,No
+28,1403,1431,Female,Germany,Pressed,Yes,Yes
+40,1454,1494,Male,Austria,Drowned,No,No
+28,1540,1568,Male,Spain,Burned at the Stake,Yes,No
+36,1482,1518,Female,Belgium,Burned at the Stake,No,No
+29,1378,1407,Female,Estonia,Hanged,No,No
+23,1380,1403,Female,France,Tortured,No,No
+57,1368,1425,Female,Scotland,Burned at the Stake,No,No
+56,1528,1584,Male,France,Hanged,No,No
+53,1725,1778,Female,Germany,Hanged,Yes,Yes
+19,1656,1675,Male,Scotland,Hanged,Yes,No
+43,1453,1496,Male,Spain,Pressed,Yes,Yes
+20,1678,1698,Male,Norway,Tortured,Yes,No
+38,1800,1838,Female,Germany,Hanged,Yes,No
+46,1501,1547,Female,Poland,Burned at the Stake,Yes,No
+42,1493,1535,Female,Ireland,Drowned,No,No
+72,1404,1476,Male,Scotland,Hanged,No,No
+58,1445,1503,Female,France,Hanged,Yes,Yes
+52,1513,1565,Female,Austria,Burned at the Stake,No,Yes
+31,1393,1424,Female,Austria,Hanged,Yes,No
+34,1573,1607,Female,Austria,Burned at the Stake,Yes,No
+49,1728,1777,Male,Estonia,Burned at the Stake,Yes,Yes
+43,1327,1370,Female,France,Burned at the Stake,Yes,No
+45,1800,1845,Male,France,Burned at the Stake,No,Yes
+35,1407,1442,Female,Germany,Drowned,Yes,No
+36,1800,1836,Female,Poland,Drowned,No,Yes
+39,1530,1569,Male,Belgium,Drowned,No,No
+59,1401,1460,Female,England,Hanged,No,No
+36,1326,1362,Male,France,Tortured,Yes,No
+49,1574,1623,Male,England,Hanged,No,No
+43,1748,1791,Female,France,Burned at the Stake,No,No
+66,1367,1433,Male,France,Drowned,No,No
+29,1300,1329,Female,Poland,Hanged,Yes,Yes
+28,1568,1596,Female,Germany,Burned at the Stake,Yes,Yes
+68,1800,1868,Female,France,Hanged,Yes,No
+34,1800,1834,Male,Sweden,Burned at the Stake,Yes,No
+34,1516,1550,Male,Germany,Burned at the Stake,No,No
+48,1493,1541,Female,France,Drowned,Yes,Yes
+59,1800,1859,Female,Estonia,Hanged,Yes,No
+46,1380,1426,Male,England,Burned at the Stake,Yes,No
+23,1745,1768,Male,Spain,Hanged,Yes,Yes
+52,1680,1732,Male,France,Pressed,No,No
+42,1466,1508,Female,France,Burned at the Stake,Yes,No
+9,1300,1309,Female,England,Hanged,Yes,No
+50,1639,1689,Female,France,Burned at the Stake,Yes,No
+37,1344,1381,Male,Germany,Hanged,No,No
+42,1669,1711,Female,Austria,Burned at the Stake,Yes,No
+63,1540,1603,Female,Germany,Burned at the Stake,No,No
+44,1582,1626,Female,Belgium,Burned at the Stake,Yes,No
+51,1580,1631,Male,Sweden,Burned at the Stake,Yes,Yes
+43,1423,1466,Female,France,Hanged,Yes,No
+40,1800,1840,Male,France,Drowned,No,No
+58,1602,1660,Female,Netherlands,Hanged,Yes,No
+61,1642,1703,Female,Spain,Hanged,No,Yes
+59,1546,1605,Female,Estonia,Drowned,Yes,No
+27,1508,1535,Female,Germany,Pressed,No,No
+78,1498,1576,Male,Estonia,Hanged,Yes,No
+52,1329,1381,Male,Estonia,Tortured,Yes,No
+65,1542,1607,Female,England,Burned at the Stake,Yes,Yes
+57,1455,1512,Female,France,Drowned,No,No
+51,1800,1851,Female,Austria,Burned at the Stake,No,No
+41,1556,1597,Female,France,Burned at the Stake,Yes,No
+41,1780,1821,Female,Austria,Tortured,Yes,No
+35,1302,1337,Male,England,Burned at the Stake,Yes,No
+60,1689,1749,Female,France,Burned at the Stake,No,No
+39,1597,1636,Female,England,Pressed,No,No
+27,1462,1489,Female,Spain,Burned at the Stake,No,No
+54,1506,1560,Female,England,Tortured,Yes,No
+14,1501,1515,Male,Germany,Tortured,No,No
+26,1570,1596,Female,Poland,Hanged,Yes,No
+38,1514,1552,Female,France,Burned at the Stake,Yes,No
+57,1555,1612,Male,Austria,Pressed,No,No
+31,1300,1331,Female,Poland,Burned at the Stake,No,No
+33,1497,1530,Male,England,Hanged,Yes,No
+32,1548,1580,Male,Netherlands,Drowned,Yes,No
+45,1430,1475,Male,Spain,Burned at the Stake,No,No
+56,1543,1599,Female,England,Hanged,Yes,No
+35,1782,1817,Female,Estonia,Hanged,Yes,No
+39,1453,1492,Female,Spain,Hanged,Yes,No
+45,1596,1641,Male,Spain,Pressed,No,Yes
+77,1704,1781,Female,France,Tortured,No,No
+18,1437,1455,Female,England,Drowned,Yes,No
+40,1742,1782,Female,Poland,Drowned,Yes,No
+43,1593,1636,Male,Scotland,Tortured,Yes,No
+74,1376,1450,Female,France,Burned at the Stake,No,No
+60,1385,1445,Female,Estonia,Hanged,No,No
+29,1800,1829,Male,Germany,Hanged,Yes,No
+47,1588,1635,Male,Germany,Burned at the Stake,No,No
+52,1710,1762,Female,Germany,Burned at the Stake,No,No
+55,1750,1805,Male,France,Tortured,No,No
+55,1700,1755,Male,Poland,Burned at the Stake,Yes,No
+79,1712,1791,Female,Estonia,Hanged,No,No
+42,1778,1820,Female,France,Burned at the Stake,Yes,No
+53,1794,1847,Female,Austria,Hanged,No,No
+51,1565,1616,Male,Austria,Tortured,No,No
+71,1324,1395,Male,Spain,Hanged,No,Yes
+51,1399,1450,Female,Germany,Hanged,No,No
+52,1500,1552,Female,France,Hanged,No,No
+29,1699,1728,Male,France,Hanged,No,Yes
+27,1568,1595,Female,Netherlands,Hanged,Yes,Yes
+53,1800,1853,Male,Norway,Hanged,No,No
+57,1697,1754,Female,Belgium,Tortured,Yes,No
+19,1488,1507,Female,Poland,Burned at the Stake,No,Yes
+40,1717,1757,Male,Germany,Pressed,No,No
+60,1473,1533,Male,England,Drowned,No,Yes
+64,1300,1364,Female,Austria,Hanged,Yes,No
+56,1671,1727,Female,Spain,Tortured,No,No
+35,1586,1621,Female,Sweden,Hanged,Yes,No
+53,1512,1565,Female,Germany,Tortured,No,Yes
+50,1545,1595,Female,Poland,Tortured,No,No
+44,1722,1766,Male,Poland,Hanged,No,No
+46,1587,1633,Female,Estonia,Burned at the Stake,No,No
+51,1727,1778,Male,Germany,Burned at the Stake,No,Yes
+57,1649,1706,Female,Estonia,Burned at the Stake,No,Yes
+25,1715,1740,Female,Estonia,Drowned,No,No
+62,1469,1531,Male,Germany,Tortured,Yes,No
+45,1515,1560,Male,Germany,Hanged,Yes,Yes
+49,1687,1736,Female,Austria,Tortured,Yes,No
+44,1518,1562,Female,Ireland,Hanged,No,No
+68,1638,1706,Female,Belgium,Tortured,No,Yes
+35,1638,1673,Female,Poland,Tortured,No,Yes
+33,1357,1390,Male,Germany,Drowned,No,No
+39,1695,1734,Female,Germany,Hanged,Yes,Yes
+46,1773,1819,Female,Estonia,Hanged,Yes,No
+49,1740,1789,Female,France,Drowned,Yes,No
+43,1676,1719,Male,Norway,Hanged,Yes,No
+24,1620,1644,Female,France,Hanged,No,Yes
+34,1523,1557,Female,Spain,Hanged,No,No
+41,1300,1341,Female,Austria,Drowned,Yes,Yes
+52,1613,1665,Female,Germany,Burned at the Stake,Yes,No
+34,1800,1834,Female,Netherlands,Pressed,No,Yes
+35,1766,1801,Male,France,Burned at the Stake,Yes,No
+56,1478,1534,Female,Poland,Drowned,Yes,No
+54,1565,1619,Female,Norway,Hanged,No,No
+45,1800,1845,Female,Germany,Hanged,Yes,No
+38,1654,1692,Female,Spain,Hanged,Yes,No
+61,1496,1557,Female,England,Burned at the Stake,No,Yes
+9,1462,1471,Male,Belgium,Pressed,Yes,Yes
+29,1463,1492,Female,Germany,Tortured,No,Yes
+48,1330,1378,Female,Netherlands,Hanged,No,No
+52,1713,1765,Female,England,Drowned,Yes,No
+60,1347,1407,Female,Germany,Hanged,Yes,No
+40,1725,1765,Female,Spain,Hanged,Yes,Yes
+67,1536,1603,Female,France,Tortured,Yes,No
+31,1574,1605,Male,Poland,Burned at the Stake,Yes,No
+58,1414,1472,Female,Belgium,Burned at the Stake,Yes,No
+29,1579,1608,Female,Germany,Drowned,Yes,No
+33,1405,1438,Female,France,Drowned,Yes,No
+41,1473,1514,Female,France,Drowned,No,No
+24,1493,1517,Female,Spain,Hanged,No,No
+54,1800,1854,Female,Poland,Drowned,No,No
+49,1582,1631,Female,Ireland,Burned at the Stake,No,Yes
+32,1697,1729,Female,France,Drowned,Yes,No
+46,1574,1620,Female,Germany,Burned at the Stake,No,No
+53,1491,1544,Male,Spain,Hanged,No,Yes
+63,1776,1839,Male,France,Burned at the Stake,Yes,No
+54,1371,1425,Female,Scotland,Burned at the Stake,Yes,No
+44,1648,1692,Male,Scotland,Drowned,Yes,Yes
+59,1505,1564,Male,Belgium,Tortured,Yes,Yes
+46,1526,1572,Male,Belgium,Pressed,No,Yes
+12,1300,1312,Female,Germany,Burned at the Stake,No,Yes
+32,1300,1332,Female,Germany,Hanged,Yes,No
+47,1711,1758,Female,France,Tortured,Yes,No
+64,1327,1391,Male,Germany,Burned at the Stake,Yes,No
+61,1592,1653,Female,Germany,Tortured,Yes,No
+62,1605,1667,Female,France,Drowned,Yes,No
+17,1732,1749,Male,France,Burned at the Stake,Yes,No
+49,1708,1757,Female,Spain,Burned at the Stake,No,No
+58,1710,1768,Female,England,Hanged,Yes,No
+28,1688,1716,Female,Germany,Hanged,Yes,No
+37,1800,1837,Female,Spain,Hanged,No,No
+43,1596,1639,Female,Austria,Hanged,Yes,No
+69,1638,1707,Female,Netherlands,Hanged,Yes,No
+58,1536,1594,Male,France,Hanged,Yes,No
+52,1611,1663,Female,Spain,Burned at the Stake,Yes,No
+38,1622,1660,Female,France,Hanged,Yes,No
+36,1475,1511,Female,Germany,Drowned,No,No
+20,1559,1579,Female,England,Burned at the Stake,Yes,Yes
+38,1782,1820,Female,France,Drowned,Yes,No
+34,1715,1749,Female,Germany,Pressed,Yes,No
+67,1708,1775,Female,Spain,Hanged,Yes,No
+37,1308,1345,Male,France,Burned at the Stake,Yes,No
+42,1708,1750,Female,Spain,Burned at the Stake,Yes,No
+34,1738,1772,Female,Estonia,Hanged,No,No
+39,1475,1514,Female,France,Burned at the Stake,No,No
+26,1326,1352,Male,Austria,Drowned,No,No
+24,1377,1401,Male,Austria,Hanged,Yes,Yes
+52,1685,1737,Male,Spain,Burned at the Stake,No,No
+55,1332,1387,Female,Germany,Hanged,Yes,No
+44,1522,1566,Female,Belgium,Burned at the Stake,Yes,Yes
+33,1676,1709,Female,Ireland,Hanged,Yes,No
+33,1508,1541,Male,Spain,Burned at the Stake,Yes,No
+41,1465,1506,Female,Germany,Burned at the Stake,Yes,No
+32,1790,1822,Male,France,Hanged,Yes,No
+39,1592,1631,Female,France,Hanged,No,No
+36,1338,1374,Female,Belgium,Drowned,No,No
+58,1300,1358,Female,England,Burned at the Stake,Yes,No
+67,1800,1867,Female,Germany,Tortured,Yes,No
+40,1679,1719,Female,Germany,Burned at the Stake,No,No
+15,1454,1469,Male,Austria,Drowned,Yes,No
+59,1471,1530,Female,France,Drowned,Yes,Yes
+24,1398,1422,Female,Estonia,Hanged,Yes,No
+23,1473,1496,Male,Poland,Burned at the Stake,Yes,No
+54,1446,1500,Female,Scotland,Drowned,No,Yes
+51,1415,1466,Male,France,Burned at the Stake,No,Yes
+26,1526,1552,Female,Scotland,Hanged,No,Yes
+42,1387,1429,Female,Netherlands,Hanged,No,Yes
+55,1709,1764,Male,France,Pressed,No,Yes
+41,1436,1477,Male,France,Pressed,No,Yes
+34,1562,1596,Female,England,Pressed,Yes,No
+25,1610,1635,Male,Poland,Hanged,No,No
+42,1470,1512,Female,Ireland,Hanged,Yes,Yes
+29,1574,1603,Male,England,Tortured,No,No
+69,1300,1369,Female,Netherlands,Burned at the Stake,Yes,No
+41,1428,1469,Female,Spain,Burned at the Stake,Yes,No
+28,1424,1452,Female,Poland,Hanged,Yes,No
+27,1411,1438,Female,Netherlands,Pressed,No,No
+39,1517,1556,Female,France,Hanged,No,No
+54,1739,1793,Female,Belgium,Tortured,No,No
+67,1678,1745,Female,Poland,Hanged,Yes,No
+38,1471,1509,Female,Estonia,Hanged,Yes,No
+22,1585,1607,Female,Germany,Pressed,Yes,No
+39,1800,1839,Female,Poland,Burned at the Stake,Yes,No
+43,1300,1343,Female,Germany,Drowned,Yes,No
+37,1666,1703,Male,Ireland,Burned at the Stake,No,Yes
+34,1746,1780,Female,Germany,Drowned,Yes,No
+50,1434,1484,Male,Poland,Tortured,Yes,Yes
+42,1512,1554,Female,France,Hanged,No,No
+34,1574,1608,Male,Estonia,Hanged,Yes,No
+58,1523,1581,Female,Netherlands,Tortured,No,No
+52,1562,1614,Female,France,Drowned,No,Yes
+41,1607,1648,Male,Germany,Burned at the Stake,No,No
+22,1800,1822,Female,France,Hanged,No,No
+34,1668,1702,Female,Poland,Pressed,No,No
+47,1335,1382,Female,France,Burned at the Stake,No,Yes
+42,1415,1457,Female,Germany,Drowned,No,No
+49,1659,1708,Male,England,Hanged,Yes,No
+50,1376,1426,Female,Germany,Tortured,No,Yes
+43,1756,1799,Female,Poland,Burned at the Stake,Yes,Yes
+38,1581,1619,Female,France,Burned at the Stake,Yes,No
+11,1626,1637,Female,Poland,Hanged,Yes,No
+45,1761,1806,Male,Estonia,Hanged,Yes,No
+45,1411,1456,Female,Spain,Tortured,Yes,No
+41,1376,1417,Female,Sweden,Pressed,Yes,No
+36,1381,1417,Female,England,Burned at the Stake,Yes,No
+40,1379,1419,Female,Estonia,Burned at the Stake,Yes,No
+74,1525,1599,Female,Scotland,Hanged,No,Yes
+48,1535,1583,Female,Spain,Burned at the Stake,Yes,No
+57,1536,1593,Female,Germany,Hanged,Yes,No
+69,1699,1768,Female,France,Drowned,No,No
+42,1541,1583,Male,Germany,Burned at the Stake,Yes,No
+46,1557,1603,Female,Poland,Drowned,Yes,No
+37,1517,1554,Male,Scotland,Tortured,Yes,No
+61,1481,1542,Male,France,Tortured,Yes,No
+35,1751,1786,Female,Poland,Hanged,No,No
+23,1642,1665,Female,Belgium,Burned at the Stake,No,No
+57,1437,1494,Male,Scotland,Hanged,Yes,No
+70,1395,1465,Male,Estonia,Drowned,Yes,No
+47,1523,1570,Female,Austria,Tortured,No,No
+45,1457,1502,Female,Austria,Burned at the Stake,No,Yes
+66,1677,1743,Female,England,Hanged,Yes,No
+56,1747,1803,Male,France,Burned at the Stake,No,Yes
+21,1402,1423,Female,England,Tortured,Yes,Yes
+50,1607,1657,Male,Germany,Tortured,Yes,No
+32,1573,1605,Male,Germany,Hanged,No,Yes
+38,1631,1669,Female,France,Hanged,No,Yes
+52,1300,1352,Female,Scotland,Burned at the Stake,No,No
+35,1606,1641,Female,Germany,Hanged,Yes,Yes
+52,1559,1611,Female,Scotland,Hanged,Yes,No
+33,1750,1783,Female,Estonia,Hanged,No,Yes
+49,1491,1540,Male,Belgium,Tortured,Yes,Yes
+55,1458,1513,Male,Poland,Hanged,Yes,No
+39,1575,1614,Female,France,Burned at the Stake,Yes,No
+58,1654,1712,Male,Scotland,Burned at the Stake,Yes,No
+24,1430,1454,Female,Scotland,Burned at the Stake,No,No
+39,1609,1648,Male,Germany,Hanged,No,No
+36,1644,1680,Male,France,Burned at the Stake,No,Yes
+46,1593,1639,Female,Germany,Drowned,Yes,No
+75,1471,1546,Male,Germany,Burned at the Stake,Yes,No
+29,1800,1829,Female,Germany,Tortured,No,No
+9,1559,1568,Female,Germany,Burned at the Stake,Yes,No
+32,1487,1519,Female,Ireland,Hanged,No,No
+54,1545,1599,Male,France,Burned at the Stake,Yes,No
+52,1418,1470,Female,France,Hanged,No,No
+59,1559,1618,Female,Spain,Hanged,Yes,No
+19,1491,1510,Male,Scotland,Burned at the Stake,No,Yes
+41,1300,1341,Female,France,Burned at the Stake,Yes,No
+65,1791,1856,Female,England,Burned at the Stake,Yes,Yes
+73,1425,1498,Male,France,Pressed,Yes,Yes
+54,1398,1452,Female,Norway,Burned at the Stake,No,No
+12,1566,1578,Female,France,Hanged,Yes,Yes
+84,1358,1442,Female,Germany,Tortured,No,No
+48,1697,1745,Female,Germany,Burned at the Stake,No,No
+62,1544,1606,Male,Spain,Burned at the Stake,Yes,Yes
+46,1524,1570,Male,France,Hanged,Yes,No
+46,1596,1642,Female,Germany,Pressed,No,No
+63,1472,1535,Male,France,Hanged,Yes,No
+30,1442,1472,Female,Spain,Pressed,No,No
+46,1421,1467,Female,France,Burned at the Stake,No,Yes
+25,1512,1537,Female,Netherlands,Hanged,No,No
+35,1351,1386,Female,Poland,Pressed,No,No
+16,1792,1808,Male,Belgium,Hanged,Yes,No
+40,1646,1686,Male,Spain,Drowned,No,Yes
+59,1693,1752,Male,Spain,Hanged,Yes,Yes
+49,1300,1349,Female,Germany,Burned at the Stake,No,Yes
+36,1479,1515,Female,Austria,Burned at the Stake,Yes,Yes
+57,1547,1604,Female,Germany,Hanged,No,No
+69,1409,1478,Female,England,Hanged,No,Yes
+41,1459,1500,Male,Poland,Burned at the Stake,Yes,Yes
+49,1512,1561,Female,France,Tortured,Yes,No
+46,1481,1527,Female,Scotland,Burned at the Stake,No,No
+47,1366,1413,Male,Estonia,Hanged,No,No
+67,1527,1594,Female,Sweden,Tortured,No,No
+45,1576,1621,Male,Germany,Burned at the Stake,No,Yes
+60,1429,1489,Male,Belgium,Drowned,No,No
+55,1669,1724,Male,England,Hanged,Yes,No
+43,1539,1582,Female,France,Pressed,Yes,No
+62,1761,1823,Female,Austria,Hanged,Yes,No
+53,1416,1469,Female,France,Hanged,Yes,Yes
+66,1348,1414,Female,France,Drowned,Yes,No
+43,1300,1343,Male,Estonia,Drowned,Yes,Yes
+47,1490,1537,Male,England,Burned at the Stake,Yes,Yes
+33,1513,1546,Male,Germany,Drowned,Yes,No
+57,1490,1547,Male,Germany,Pressed,Yes,No
+9,1547,1556,Female,France,Tortured,No,No
+27,1601,1628,Female,Austria,Burned at the Stake,No,Yes
+43,1484,1527,Female,France,Hanged,No,No
+60,1800,1860,Female,Germany,Hanged,No,No
+36,1488,1524,Male,Germany,Tortured,No,No
+13,1421,1434,Female,France,Hanged,Yes,No
+46,1434,1480,Female,France,Drowned,No,No
+40,1496,1536,Female,France,Burned at the Stake,Yes,Yes
+22,1535,1557,Female,Spain,Drowned,Yes,No
+68,1447,1515,Female,Spain,Hanged,Yes,No
+9,1490,1499,Female,Germany,Hanged,Yes,No
+35,1534,1569,Female,England,Hanged,No,No
+55,1737,1792,Male,France,Hanged,Yes,No
+55,1727,1782,Female,France,Burned at the Stake,Yes,No
+20,1785,1805,Female,Germany,Hanged,No,No
+47,1488,1535,Male,France,Burned at the Stake,Yes,Yes
+44,1594,1638,Female,England,Hanged,No,Yes
+52,1585,1637,Male,Sweden,Burned at the Stake,No,No
+33,1700,1733,Male,France,Drowned,No,No
+32,1403,1435,Male,Germany,Hanged,No,No
+52,1643,1695,Male,Scotland,Drowned,No,Yes
+25,1377,1402,Female,Norway,Burned at the Stake,No,No
+39,1597,1636,Female,England,Burned at the Stake,No,No
+30,1357,1387,Female,Austria,Tortured,Yes,No
+38,1701,1739,Female,Estonia,Drowned,Yes,No
+49,1300,1349,Male,England,Burned at the Stake,No,No
+39,1410,1449,Male,Estonia,Tortured,No,No
+37,1440,1477,Female,France,Burned at the Stake,Yes,No
+44,1582,1626,Female,Spain,Hanged,No,No
+38,1436,1474,Female,Belgium,Burned at the Stake,No,Yes
+31,1699,1730,Female,Netherlands,Drowned,Yes,No
+29,1300,1329,Female,Germany,Hanged,No,No
+56,1580,1636,Female,Spain,Pressed,No,No
+45,1397,1442,Female,Belgium,Burned at the Stake,Yes,No
+44,1800,1844,Female,Austria,Tortured,Yes,Yes
+32,1522,1554,Male,France,Burned at the Stake,Yes,No
+49,1325,1374,Male,Estonia,Burned at the Stake,Yes,No
+35,1638,1673,Female,Austria,Burned at the Stake,No,No
+78,1603,1681,Female,Germany,Burned at the Stake,No,No
+32,1791,1823,Male,Poland,Hanged,Yes,Yes
+36,1470,1506,Male,Germany,Burned at the Stake,No,No
+33,1526,1559,Female,Austria,Burned at the Stake,Yes,Yes
+49,1608,1657,Male,Estonia,Drowned,No,No
+65,1596,1661,Female,France,Burned at the Stake,Yes,Yes
+31,1467,1498,Female,England,Hanged,Yes,No
+34,1769,1803,Female,Spain,Burned at the Stake,Yes,No
+69,1629,1698,Female,Austria,Hanged,Yes,No
+38,1596,1634,Female,Germany,Burned at the Stake,No,Yes
+41,1399,1440,Female,Ireland,Pressed,No,No
+16,1596,1612,Female,France,Pressed,No,No
+20,1526,1546,Female,Poland,Burned at the Stake,No,No
+31,1359,1390,Female,Germany,Hanged,Yes,Yes
+47,1638,1685,Female,Netherlands,Burned at the Stake,No,No
+33,1603,1636,Female,France,Burned at the Stake,Yes,No
+45,1574,1619,Female,Norway,Hanged,No,No
+17,1445,1462,Male,Austria,Burned at the Stake,No,Yes
+25,1300,1325,Female,Ireland,Hanged,Yes,No
+42,1630,1672,Female,Germany,Burned at the Stake,Yes,No
+71,1510,1581,Female,Germany,Drowned,Yes,Yes
+47,1684,1731,Male,Germany,Tortured,Yes,No
+45,1800,1845,Female,Scotland,Hanged,No,No
+12,1473,1485,Male,Scotland,Drowned,No,No
+47,1455,1502,Male,France,Hanged,No,No
+23,1358,1381,Female,France,Tortured,Yes,No
+43,1463,1506,Female,Germany,Hanged,Yes,No
+72,1517,1589,Female,England,Burned at the Stake,Yes,Yes
+62,1590,1652,Female,Norway,Burned at the Stake,Yes,No
+60,1406,1466,Female,Austria,Burned at the Stake,No,No
+56,1657,1713,Male,Norway,Pressed,No,No
+22,1632,1654,Female,England,Hanged,Yes,No
+20,1800,1820,Female,Scotland,Burned at the Stake,No,No
+51,1501,1552,Female,Scotland,Tortured,Yes,No
+57,1475,1532,Female,England,Tortured,No,No
+35,1620,1655,Male,Poland,Hanged,Yes,No
+47,1300,1347,Female,Spain,Drowned,Yes,No
+53,1534,1587,Male,Germany,Burned at the Stake,No,Yes
+41,1499,1540,Female,Poland,Burned at the Stake,No,No
+42,1300,1342,Female,Belgium,Pressed,No,No
+23,1800,1823,Female,Germany,Burned at the Stake,No,No
+39,1507,1546,Male,Spain,Burned at the Stake,Yes,No
+29,1602,1631,Female,England,Tortured,Yes,Yes
+72,1554,1626,Female,Belgium,Burned at the Stake,Yes,No
+42,1359,1401,Female,Austria,Pressed,No,Yes
+45,1379,1424,Female,Germany,Drowned,Yes,No
+54,1602,1656,Female,Germany,Tortured,No,No
+40,1529,1569,Male,Spain,Burned at the Stake,Yes,Yes
+55,1315,1370,Female,Germany,Drowned,No,Yes
+26,1523,1549,Male,England,Burned at the Stake,Yes,No
+51,1407,1458,Female,England,Pressed,Yes,No
+34,1655,1689,Female,Austria,Hanged,No,No
+47,1545,1592,Female,Germany,Burned at the Stake,Yes,No
+41,1416,1457,Female,Spain,Burned at the Stake,Yes,No
+34,1300,1334,Male,Scotland,Drowned,No,No
+76,1300,1376,Female,Estonia,Hanged,Yes,No
+42,1422,1464,Male,Austria,Burned at the Stake,Yes,No
+70,1738,1808,Female,France,Tortured,No,No
+56,1592,1648,Female,Germany,Hanged,Yes,Yes
+69,1565,1634,Female,France,Hanged,No,No
+60,1368,1428,Male,Austria,Burned at the Stake,No,No
+49,1300,1349,Female,Spain,Hanged,Yes,Yes
+40,1536,1576,Female,Germany,Tortured,No,No
+69,1800,1869,Female,Germany,Pressed,Yes,No
+44,1300,1344,Female,France,Burned at the Stake,No,No
+56,1345,1401,Female,England,Burned at the Stake,Yes,No
+50,1360,1410,Female,Poland,Hanged,No,No
+23,1452,1475,Female,Germany,Pressed,No,No
+54,1577,1631,Female,France,Hanged,Yes,No
+41,1756,1797,Male,France,Tortured,No,No
+49,1736,1785,Male,Ireland,Drowned,No,Yes
+24,1617,1641,Female,France,Hanged,Yes,No
+64,1469,1533,Female,Germany,Burned at the Stake,Yes,Yes
+35,1590,1625,Female,Spain,Burned at the Stake,No,Yes
+71,1453,1524,Female,Belgium,Hanged,Yes,No
+55,1572,1627,Female,Belgium,Tortured,Yes,No
+59,1543,1602,Female,Austria,Burned at the Stake,No,Yes
+52,1509,1561,Female,France,Hanged,Yes,Yes
+28,1506,1534,Male,Ireland,Burned at the Stake,Yes,No
+82,1397,1479,Female,Scotland,Tortured,Yes,No
+47,1456,1503,Male,Spain,Drowned,Yes,No
+49,1383,1432,Female,Austria,Burned at the Stake,Yes,No
+68,1653,1721,Male,Poland,Hanged,Yes,Yes
+41,1548,1589,Male,Norway,Tortured,No,No
+48,1486,1534,Male,France,Drowned,No,Yes
+31,1553,1584,Female,Estonia,Burned at the Stake,Yes,No
+46,1339,1385,Male,Scotland,Hanged,No,No
+45,1315,1360,Female,France,Tortured,No,No
+37,1647,1684,Female,France,Burned at the Stake,No,No
+70,1622,1692,Male,France,Hanged,Yes,Yes
+48,1366,1414,Male,France,Burned at the Stake,No,No
+34,1471,1505,Male,Scotland,Tortured,Yes,No
+79,1631,1710,Female,Poland,Hanged,No,No
+23,1670,1693,Female,France,Hanged,No,No
+71,1592,1663,Female,Spain,Burned at the Stake,Yes,No
+24,1645,1669,Female,France,Burned at the Stake,Yes,No
+49,1500,1549,Female,Netherlands,Pressed,No,No
+42,1328,1370,Female,Spain,Burned at the Stake,Yes,No
+33,1361,1394,Female,Germany,Hanged,Yes,No
+55,1753,1808,Male,France,Drowned,No,No
+59,1631,1690,Male,Norway,Hanged,No,No
+31,1620,1651,Female,Germany,Hanged,Yes,No
+65,1480,1545,Female,France,Hanged,Yes,Yes
+34,1504,1538,Male,Austria,Drowned,No,No
+23,1521,1544,Female,Scotland,Drowned,Yes,No
+57,1595,1652,Male,Germany,Hanged,Yes,No
+41,1728,1769,Female,France,Drowned,Yes,No
+23,1554,1577,Female,Estonia,Pressed,Yes,No
+30,1611,1641,Female,France,Tortured,No,No
+53,1417,1470,Female,Belgium,Burned at the Stake,No,No
+63,1394,1457,Female,Germany,Pressed,Yes,Yes
+39,1371,1410,Female,Spain,Burned at the Stake,No,No
+60,1570,1630,Female,France,Tortured,Yes,No
+33,1482,1515,Female,Austria,Drowned,No,No
+30,1656,1686,Female,Spain,Burned at the Stake,Yes,No
+51,1542,1593,Female,Spain,Drowned,Yes,Yes
+51,1649,1700,Male,Germany,Drowned,Yes,No
+46,1624,1670,Female,Germany,Hanged,Yes,No
+51,1656,1707,Female,France,Tortured,No,No
+34,1300,1334,Male,Spain,Tortured,Yes,No
+46,1528,1574,Female,Estonia,Pressed,Yes,No
+35,1800,1835,Female,Netherlands,Drowned,Yes,Yes
+44,1628,1672,Male,France,Tortured,No,No
+40,1476,1516,Female,Estonia,Hanged,No,No
+31,1697,1728,Male,France,Burned at the Stake,No,No
+33,1620,1653,Male,Germany,Burned at the Stake,No,No
+43,1711,1754,Male,Germany,Drowned,Yes,Yes
+23,1300,1323,Male,Poland,Pressed,No,Yes
+49,1619,1668,Female,Belgium,Hanged,Yes,No
+28,1546,1574,Female,France,Drowned,Yes,No
+39,1370,1409,Male,Germany,Drowned,No,No
+59,1800,1859,Female,Scotland,Hanged,No,Yes
+43,1682,1725,Male,England,Burned at the Stake,Yes,Yes
+48,1374,1422,Female,Norway,Hanged,No,No
+45,1471,1516,Female,France,Burned at the Stake,Yes,No
+54,1553,1607,Female,France,Burned at the Stake,No,No
+64,1375,1439,Female,Spain,Burned at the Stake,Yes,No
+55,1412,1467,Male,Austria,Hanged,Yes,No
+76,1663,1739,Female,France,Hanged,Yes,Yes
+38,1622,1660,Male,Netherlands,Hanged,No,No
+28,1652,1680,Male,England,Hanged,Yes,No
+51,1379,1430,Male,Belgium,Burned at the Stake,No,No
+49,1700,1749,Female,Poland,Hanged,No,No
+56,1370,1426,Female,France,Drowned,Yes,No
+58,1367,1425,Female,England,Burned at the Stake,No,No
+46,1527,1573,Female,Spain,Burned at the Stake,Yes,No
+52,1531,1583,Male,Austria,Pressed,Yes,No
+41,1784,1825,Female,France,Burned at the Stake,No,Yes
+41,1513,1554,Female,France,Hanged,No,No
+52,1308,1360,Male,France,Burned at the Stake,Yes,No
+50,1354,1404,Female,France,Burned at the Stake,Yes,Yes
+45,1528,1573,Female,Scotland,Burned at the Stake,No,No
+41,1444,1485,Female,France,Tortured,Yes,Yes
+38,1559,1597,Female,France,Tortured,Yes,Yes
+31,1578,1609,Female,Netherlands,Pressed,No,No
+46,1680,1726,Female,Germany,Burned at the Stake,No,No
+66,1578,1644,Female,Austria,Burned at the Stake,Yes,Yes
+78,1800,1878,Female,Spain,Burned at the Stake,Yes,Yes
+36,1551,1587,Female,Germany,Burned at the Stake,Yes,Yes
+53,1322,1375,Female,France,Drowned,No,No
+41,1599,1640,Female,Ireland,Hanged,No,No
+30,1648,1678,Female,Norway,Pressed,No,Yes
+68,1707,1775,Male,Spain,Burned at the Stake,Yes,No
+30,1333,1363,Male,Austria,Burned at the Stake,Yes,No
+36,1526,1562,Female,Germany,Burned at the Stake,No,No
+42,1604,1646,Male,Spain,Hanged,Yes,No
+30,1375,1405,Female,Estonia,Burned at the Stake,Yes,No
+33,1492,1525,Female,Poland,Burned at the Stake,Yes,No
+25,1514,1539,Female,Spain,Pressed,Yes,No
+49,1300,1349,Female,Sweden,Hanged,No,No
+42,1464,1506,Female,Norway,Burned at the Stake,Yes,No
+47,1477,1524,Male,Norway,Burned at the Stake,Yes,No
+48,1346,1394,Female,England,Burned at the Stake,No,No
+60,1800,1860,Female,Estonia,Drowned,No,No
+30,1571,1601,Female,Austria,Burned at the Stake,Yes,Yes
+46,1438,1484,Female,England,Burned at the Stake,No,No
+20,1800,1820,Female,Germany,Hanged,Yes,No
+28,1528,1556,Male,Austria,Drowned,No,No
+9,1415,1424,Female,Belgium,Burned at the Stake,No,Yes
+48,1429,1477,Female,Germany,Hanged,Yes,No
+31,1500,1531,Female,France,Burned at the Stake,No,No
+45,1612,1657,Female,Germany,Tortured,Yes,No
+47,1619,1666,Female,Germany,Burned at the Stake,Yes,Yes
+44,1594,1638,Male,Spain,Hanged,Yes,Yes
+61,1620,1681,Female,Austria,Pressed,No,Yes
+54,1381,1435,Female,Germany,Hanged,Yes,No
+42,1380,1422,Female,Spain,Hanged,Yes,Yes
+33,1593,1626,Male,Germany,Hanged,Yes,No
+48,1300,1348,Male,Germany,Drowned,Yes,Yes
+64,1623,1687,Male,England,Pressed,Yes,No
+27,1338,1365,Female,Sweden,Drowned,No,Yes
+51,1672,1723,Female,Norway,Pressed,Yes,No
+41,1800,1841,Female,France,Hanged,No,Yes
+42,1629,1671,Male,Netherlands,Burned at the Stake,No,No
+49,1414,1463,Male,England,Burned at the Stake,Yes,No
+35,1707,1742,Female,Poland,Drowned,No,No
+20,1465,1485,Female,France,Hanged,No,No
+40,1679,1719,Male,Estonia,Drowned,Yes,Yes
+24,1545,1569,Male,France,Burned at the Stake,Yes,No
+60,1800,1860,Female,Sweden,Burned at the Stake,No,No
+56,1584,1640,Female,France,Hanged,Yes,No
+29,1756,1785,Female,France,Burned at the Stake,No,No
+59,1535,1594,Female,France,Pressed,No,Yes
+40,1649,1689,Female,Spain,Drowned,No,Yes
+16,1777,1793,Female,France,Burned at the Stake,Yes,No
+52,1544,1596,Female,England,Hanged,No,No
+42,1381,1423,Female,Germany,Hanged,No,No
+51,1498,1549,Female,England,Burned at the Stake,Yes,No
+63,1393,1456,Male,Austria,Drowned,No,No
+79,1671,1750,Female,France,Burned at the Stake,No,No
+23,1707,1730,Male,Ireland,Drowned,Yes,No
+50,1629,1679,Female,Germany,Pressed,No,Yes
+62,1800,1862,Male,France,Tortured,No,No
+43,1408,1451,Female,France,Hanged,Yes,No
+38,1717,1755,Male,England,Drowned,Yes,No
+42,1396,1438,Female,England,Hanged,Yes,No
+19,1578,1597,Male,France,Pressed,No,Yes
+44,1657,1701,Female,Austria,Hanged,No,No
+49,1800,1849,Male,Scotland,Burned at the Stake,Yes,No
+34,1521,1555,Female,France,Pressed,Yes,No
+30,1652,1682,Female,Germany,Burned at the Stake,Yes,Yes
+48,1700,1748,Female,Spain,Burned at the Stake,No,No
+26,1300,1326,Female,Spain,Burned at the Stake,Yes,No
+59,1656,1715,Female,France,Hanged,Yes,No
+44,1431,1475,Male,Scotland,Tortured,Yes,No
+57,1624,1681,Female,Poland,Drowned,Yes,No
+52,1574,1626,Male,France,Burned at the Stake,No,No
+40,1312,1352,Male,France,Hanged,Yes,No
+31,1478,1509,Female,Belgium,Hanged,Yes,No
+41,1640,1681,Female,France,Burned at the Stake,No,Yes
+39,1497,1536,Male,Austria,Drowned,Yes,No
+35,1457,1492,Female,Germany,Pressed,No,No
+24,1300,1324,Female,Scotland,Hanged,Yes,No
+34,1460,1494,Female,Ireland,Pressed,No,No
+50,1700,1750,Female,Estonia,Pressed,No,Yes
+39,1648,1687,Female,France,Hanged,Yes,No
+47,1610,1657,Female,Austria,Hanged,No,No
+25,1494,1519,Male,Germany,Drowned,Yes,Yes
+43,1645,1688,Female,Germany,Hanged,No,No
+35,1513,1548,Male,Germany,Hanged,No,No
+52,1714,1766,Female,Poland,Pressed,No,No
+20,1518,1538,Male,France,Burned at the Stake,Yes,No
+55,1768,1823,Female,France,Burned at the Stake,Yes,No
+45,1506,1551,Female,England,Burned at the Stake,No,No
+60,1786,1846,Female,France,Pressed,No,No
+34,1595,1629,Male,France,Burned at the Stake,Yes,Yes
+63,1437,1500,Male,Scotland,Burned at the Stake,Yes,No
+50,1760,1810,Female,France,Hanged,Yes,Yes
+36,1693,1729,Female,France,Hanged,Yes,Yes
+49,1412,1461,Male,Poland,Burned at the Stake,No,No
+62,1694,1756,Female,Scotland,Drowned,Yes,No
+45,1605,1650,Male,England,Hanged,No,No
+34,1534,1568,Male,England,Hanged,No,No
+59,1771,1830,Female,England,Burned at the Stake,No,Yes
+46,1497,1543,Female,Germany,Hanged,Yes,No
+35,1300,1335,Female,Estonia,Burned at the Stake,No,No
+38,1435,1473,Female,Scotland,Hanged,No,Yes
+58,1523,1581,Female,Germany,Hanged,Yes,Yes
+44,1598,1642,Male,France,Burned at the Stake,Yes,Yes
+34,1459,1493,Male,Austria,Hanged,Yes,Yes
+34,1556,1590,Male,Germany,Burned at the Stake,No,No
+36,1800,1836,Male,Germany,Burned at the Stake,Yes,No
+36,1435,1471,Male,Poland,Pressed,Yes,Yes
+61,1470,1531,Female,Germany,Hanged,No,No
+44,1576,1620,Female,France,Hanged,Yes,No
+47,1800,1847,Female,Spain,Burned at the Stake,Yes,No
+56,1656,1712,Female,Estonia,Burned at the Stake,No,No
+50,1716,1766,Female,Austria,Pressed,No,No
+70,1800,1870,Female,Spain,Hanged,Yes,No
+41,1631,1672,Male,Germany,Burned at the Stake,No,No
+62,1623,1685,Female,Norway,Hanged,No,Yes
+67,1718,1785,Female,Estonia,Hanged,No,No
+34,1531,1565,Female,Scotland,Burned at the Stake,Yes,No
+35,1363,1398,Female,Austria,Burned at the Stake,No,No
+54,1773,1827,Female,Scotland,Burned at the Stake,Yes,No
+25,1634,1659,Female,France,Drowned,No,No
+59,1488,1547,Female,Estonia,Burned at the Stake,No,No
+43,1545,1588,Female,Scotland,Burned at the Stake,Yes,No
+55,1407,1462,Male,Estonia,Hanged,Yes,No
+42,1469,1511,Female,Germany,Hanged,Yes,No
+49,1468,1517,Female,Spain,Drowned,Yes,No
+51,1621,1672,Female,Germany,Burned at the Stake,No,No
+37,1511,1548,Male,France,Burned at the Stake,No,No
+38,1507,1545,Female,Germany,Burned at the Stake,Yes,No
+41,1577,1618,Male,Spain,Tortured,Yes,No
+34,1539,1573,Female,Spain,Hanged,Yes,No
+28,1800,1828,Male,France,Burned at the Stake,Yes,No
+30,1360,1390,Male,Poland,Pressed,Yes,No
+9,1507,1516,Female,France,Pressed,No,Yes
+66,1527,1593,Female,Germany,Hanged,Yes,No
+60,1632,1692,Female,France,Burned at the Stake,No,No
+53,1483,1536,Female,Spain,Pressed,Yes,No
+23,1469,1492,Female,Estonia,Hanged,No,No
+40,1553,1593,Male,Austria,Burned at the Stake,Yes,Yes
+53,1790,1843,Female,Poland,Hanged,Yes,No
+61,1300,1361,Female,Germany,Burned at the Stake,No,Yes
+50,1550,1600,Female,Germany,Hanged,No,No
+80,1408,1488,Female,Germany,Hanged,No,Yes
+51,1566,1617,Female,Estonia,Burned at the Stake,Yes,No
+34,1728,1762,Female,Austria,Burned at the Stake,Yes,No
+26,1563,1589,Female,Sweden,Burned at the Stake,No,No
+33,1671,1704,Male,Germany,Burned at the Stake,Yes,No
+65,1390,1455,Male,Belgium,Tortured,No,No
+56,1527,1583,Female,France,Hanged,Yes,No
+54,1509,1563,Female,Germany,Drowned,No,No
+40,1440,1480,Female,Germany,Pressed,Yes,No
+53,1800,1853,Female,Germany,Pressed,No,Yes
+57,1369,1426,Female,Germany,Burned at the Stake,Yes,Yes
+80,1529,1609,Male,Netherlands,Pressed,No,No
+50,1600,1650,Female,Scotland,Burned at the Stake,Yes,Yes
+58,1673,1731,Female,Germany,Burned at the Stake,No,No
+41,1680,1721,Male,Germany,Hanged,No,No
+68,1364,1432,Male,Germany,Burned at the Stake,No,No
+36,1609,1645,Male,Poland,Burned at the Stake,Yes,Yes
+60,1478,1538,Female,Spain,Tortured,Yes,Yes
+85,1693,1778,Female,Spain,Drowned,No,No
+70,1537,1607,Male,Norway,Pressed,No,No
+54,1300,1354,Male,Scotland,Hanged,Yes,Yes
+45,1563,1608,Female,Germany,Burned at the Stake,No,No
+29,1448,1477,Female,France,Pressed,Yes,No
+38,1645,1683,Female,Germany,Burned at the Stake,Yes,No
+44,1492,1536,Male,Scotland,Drowned,Yes,Yes
+34,1300,1334,Female,Germany,Tortured,No,No
+44,1610,1654,Female,Spain,Pressed,No,No
+58,1519,1577,Male,France,Burned at the Stake,Yes,No
+34,1413,1447,Female,Germany,Tortured,Yes,Yes
+70,1545,1615,Female,Belgium,Hanged,No,No
+35,1663,1698,Female,Estonia,Hanged,Yes,No
+50,1558,1608,Male,France,Tortured,No,No
+34,1461,1495,Female,Spain,Hanged,No,No
+21,1591,1612,Female,Austria,Drowned,Yes,No
+57,1542,1599,Male,Spain,Pressed,No,No
+38,1507,1545,Female,Estonia,Drowned,Yes,No
+37,1317,1354,Male,Germany,Hanged,Yes,No
+43,1471,1514,Female,Estonia,Drowned,Yes,No
+41,1440,1481,Male,Belgium,Hanged,Yes,No
+54,1327,1381,Female,Spain,Tortured,Yes,No
+32,1667,1699,Male,England,Burned at the Stake,Yes,No
+57,1577,1634,Male,Estonia,Tortured,No,No
+40,1656,1696,Male,France,Pressed,Yes,No
+40,1744,1784,Female,Germany,Hanged,No,No
+23,1496,1519,Male,Spain,Drowned,Yes,No
+53,1624,1677,Female,Austria,Hanged,No,No
+43,1716,1759,Female,Poland,Hanged,Yes,No
+33,1406,1439,Female,France,Drowned,Yes,Yes
+67,1565,1632,Male,Spain,Hanged,No,No
+70,1462,1532,Male,France,Burned at the Stake,No,No
+65,1529,1594,Female,Poland,Hanged,No,Yes
+36,1587,1623,Male,England,Pressed,Yes,No
+9,1730,1739,Male,Poland,Hanged,Yes,No
+45,1757,1802,Female,Estonia,Burned at the Stake,Yes,Yes
+45,1467,1512,Female,Germany,Drowned,Yes,No
+65,1373,1438,Female,France,Hanged,Yes,Yes
+60,1800,1860,Female,Ireland,Pressed,No,Yes
+66,1390,1456,Female,Scotland,Hanged,No,No
+74,1470,1544,Male,Poland,Burned at the Stake,No,No
+65,1679,1744,Female,Estonia,Tortured,Yes,Yes
+46,1482,1528,Male,Norway,Tortured,Yes,No
+41,1622,1663,Female,Poland,Tortured,No,No
+46,1446,1492,Male,England,Tortured,Yes,Yes
+37,1695,1732,Female,Sweden,Burned at the Stake,No,No
+59,1634,1693,Female,France,Burned at the Stake,Yes,No
+41,1594,1635,Male,Germany,Drowned,Yes,No
+42,1406,1448,Female,Poland,Hanged,No,No
+46,1672,1718,Female,Spain,Burned at the Stake,Yes,No
+51,1643,1694,Female,France,Pressed,Yes,No
+42,1679,1721,Male,Spain,Hanged,Yes,No
+84,1483,1567,Female,Scotland,Drowned,Yes,No
+46,1577,1623,Female,France,Hanged,Yes,No
+50,1622,1672,Female,Germany,Hanged,Yes,No
+56,1482,1538,Female,Scotland,Drowned,Yes,No
+51,1733,1784,Male,Germany,Drowned,Yes,No
+52,1493,1545,Female,Ireland,Pressed,Yes,No
+9,1395,1404,Male,Spain,Tortured,No,No
+48,1634,1682,Female,France,Hanged,Yes,No
+12,1536,1548,Female,France,Tortured,Yes,Yes
+28,1625,1653,Female,France,Burned at the Stake,Yes,No
+60,1649,1709,Female,Scotland,Tortured,No,Yes
+53,1626,1679,Male,Germany,Drowned,Yes,Yes
+35,1306,1341,Female,France,Burned at the Stake,No,No
+68,1579,1647,Female,Germany,Hanged,Yes,No
+38,1421,1459,Female,Belgium,Hanged,No,No
+55,1791,1846,Male,Germany,Tortured,Yes,No
+23,1771,1794,Female,Sweden,Tortured,No,No
+40,1559,1599,Female,Germany,Drowned,No,No
+31,1747,1778,Male,Spain,Hanged,Yes,Yes
+43,1620,1663,Female,Spain,Pressed,Yes,Yes
+54,1555,1609,Female,Spain,Hanged,No,No
+35,1300,1335,Female,Spain,Drowned,Yes,No
+38,1765,1803,Female,Poland,Hanged,Yes,No
+40,1630,1670,Female,Spain,Drowned,No,No
+42,1461,1503,Female,Spain,Pressed,Yes,No
+46,1688,1734,Female,Spain,Hanged,Yes,No
+55,1712,1767,Male,Germany,Drowned,Yes,No
+30,1629,1659,Male,Austria,Drowned,Yes,Yes
+44,1442,1486,Male,Scotland,Hanged,No,No
+57,1476,1533,Male,France,Burned at the Stake,Yes,No
+39,1608,1647,Female,Germany,Drowned,Yes,No
+29,1654,1683,Male,Spain,Pressed,No,No
+51,1300,1351,Female,Spain,Burned at the Stake,Yes,Yes
+48,1426,1474,Female,Scotland,Tortured,No,Yes
+51,1652,1703,Female,Spain,Burned at the Stake,Yes,No
+50,1415,1465,Female,France,Pressed,No,Yes
+48,1361,1409,Male,France,Tortured,Yes,No
+59,1570,1629,Female,Norway,Hanged,No,No
+34,1768,1802,Male,Spain,Hanged,Yes,No
+53,1366,1419,Female,Scotland,Tortured,Yes,No
+33,1546,1579,Male,Spain,Burned at the Stake,No,No
+54,1548,1602,Male,Austria,Hanged,Yes,No
+29,1460,1489,Female,Spain,Burned at the Stake,Yes,No
+46,1673,1719,Female,France,Burned at the Stake,Yes,Yes
+64,1632,1696,Male,Estonia,Burned at the Stake,No,No
+57,1504,1561,Female,Ireland,Drowned,Yes,No
+42,1566,1608,Male,Austria,Hanged,Yes,No
+62,1509,1571,Female,Poland,Hanged,Yes,Yes
+53,1800,1853,Male,Scotland,Hanged,Yes,No
+76,1686,1762,Female,Spain,Tortured,No,Yes
+43,1555,1598,Female,Spain,Burned at the Stake,No,Yes
+59,1555,1614,Female,Ireland,Drowned,No,No
+56,1596,1652,Female,Ireland,Drowned,No,No
+36,1366,1402,Female,Germany,Pressed,Yes,Yes
+41,1562,1603,Female,France,Tortured,No,Yes
+41,1800,1841,Female,Scotland,Hanged,Yes,Yes
+58,1349,1407,Female,France,Burned at the Stake,No,No
+48,1615,1663,Male,France,Hanged,No,No
+24,1554,1578,Male,France,Hanged,Yes,No
+62,1300,1362,Male,Germany,Drowned,No,Yes
+50,1544,1594,Male,France,Drowned,No,No
+23,1325,1348,Female,France,Hanged,No,No
+45,1465,1510,Female,Austria,Burned at the Stake,Yes,No
+34,1475,1509,Female,Spain,Pressed,Yes,Yes
+83,1497,1580,Female,France,Hanged,Yes,No
+61,1747,1808,Male,Poland,Hanged,No,Yes
+19,1585,1604,Male,France,Burned at the Stake,No,No
+29,1588,1617,Male,Spain,Burned at the Stake,No,No
+16,1300,1316,Female,Poland,Hanged,No,No
+44,1570,1614,Female,Spain,Hanged,No,No
+79,1645,1724,Female,Poland,Burned at the Stake,No,No
+50,1656,1706,Female,Spain,Drowned,No,No
+51,1594,1645,Female,Poland,Hanged,No,No
+15,1709,1724,Female,Sweden,Hanged,Yes,No
+52,1423,1475,Female,Poland,Drowned,Yes,No
+68,1427,1495,Female,Norway,Tortured,No,Yes
+34,1582,1616,Male,Germany,Burned at the Stake,No,No
+46,1373,1419,Female,France,Hanged,Yes,No
+63,1721,1784,Male,Austria,Drowned,No,No
+43,1554,1597,Female,France,Burned at the Stake,Yes,No
+47,1632,1679,Female,Germany,Tortured,No,Yes
+32,1367,1399,Male,Germany,Hanged,No,No
+40,1642,1682,Male,France,Hanged,No,No
+63,1391,1454,Female,Netherlands,Hanged,Yes,No
+70,1582,1652,Male,Netherlands,Burned at the Stake,No,No
+39,1793,1832,Male,Scotland,Hanged,No,No
+44,1450,1494,Female,Germany,Burned at the Stake,Yes,No
+69,1373,1442,Female,Sweden,Burned at the Stake,Yes,No
+25,1647,1672,Female,Austria,Hanged,Yes,No
+43,1377,1420,Female,Estonia,Hanged,No,No
+32,1657,1689,Female,Scotland,Burned at the Stake,Yes,No
+62,1402,1464,Male,Estonia,Burned at the Stake,Yes,No
+31,1551,1582,Female,Scotland,Hanged,Yes,No
+53,1676,1729,Female,Netherlands,Burned at the Stake,Yes,Yes
+38,1769,1807,Male,Poland,Drowned,No,No
+45,1623,1668,Female,Belgium,Hanged,No,No
+37,1460,1497,Female,Austria,Hanged,No,Yes
+25,1534,1559,Female,France,Hanged,No,No
+52,1800,1852,Female,Germany,Burned at the Stake,No,Yes
+58,1606,1664,Female,England,Burned at the Stake,Yes,No
+44,1800,1844,Female,Germany,Drowned,No,Yes
+39,1571,1610,Male,France,Hanged,No,No
+70,1580,1650,Female,Germany,Burned at the Stake,Yes,No
+51,1577,1628,Male,Germany,Tortured,Yes,No
+28,1784,1812,Female,Germany,Tortured,No,Yes
+35,1391,1426,Female,France,Burned at the Stake,Yes,No
+57,1596,1653,Male,Norway,Hanged,No,Yes
+66,1736,1802,Male,Scotland,Burned at the Stake,Yes,Yes
+79,1652,1731,Female,France,Drowned,Yes,No
+17,1707,1724,Female,France,Hanged,Yes,No
+45,1723,1768,Male,Germany,Pressed,Yes,No
+66,1445,1511,Female,England,Hanged,No,No
+27,1575,1602,Male,Austria,Burned at the Stake,No,No
+51,1346,1397,Female,France,Burned at the Stake,No,Yes
+56,1613,1669,Female,England,Burned at the Stake,No,No
+46,1497,1543,Female,France,Hanged,No,Yes
+40,1579,1619,Female,England,Hanged,Yes,No
+58,1514,1572,Female,Austria,Drowned,Yes,No
+76,1462,1538,Female,France,Hanged,Yes,Yes
+60,1800,1860,Female,Scotland,Burned at the Stake,Yes,No
+37,1659,1696,Female,Germany,Tortured,Yes,No
+43,1521,1564,Female,Germany,Tortured,No,No
+35,1609,1644,Female,Germany,Hanged,No,Yes
+38,1381,1419,Male,Scotland,Burned at the Stake,Yes,No
+35,1518,1553,Female,Scotland,Hanged,Yes,No
+24,1526,1550,Female,Germany,Drowned,Yes,No
+69,1492,1561,Female,France,Drowned,Yes,No
+59,1782,1841,Female,Germany,Burned at the Stake,Yes,No
+74,1800,1874,Female,Austria,Tortured,No,No
+46,1406,1452,Female,Ireland,Drowned,Yes,Yes
+46,1632,1678,Female,France,Hanged,Yes,No
+45,1594,1639,Male,France,Hanged,Yes,No
+38,1646,1684,Female,Estonia,Burned at the Stake,No,Yes
+51,1579,1630,Female,Spain,Drowned,Yes,No
+25,1556,1581,Male,Ireland,Drowned,No,No
+20,1592,1612,Male,England,Hanged,Yes,Yes
+47,1609,1656,Female,Austria,Burned at the Stake,Yes,No
+63,1800,1863,Female,Spain,Drowned,Yes,No
+32,1300,1332,Female,Ireland,Hanged,Yes,Yes
+45,1520,1565,Male,France,Burned at the Stake,No,No
+55,1388,1443,Female,France,Hanged,No,Yes
+39,1610,1649,Female,England,Hanged,Yes,No
+48,1306,1354,Female,Estonia,Tortured,No,No
+50,1530,1580,Male,Estonia,Pressed,Yes,No
+36,1494,1530,Male,France,Hanged,No,No
+36,1426,1462,Male,France,Burned at the Stake,No,No
+58,1432,1490,Male,Austria,Hanged,No,No
+87,1800,1887,Female,Austria,Hanged,Yes,No
+19,1727,1746,Female,Estonia,Tortured,Yes,No
+33,1414,1447,Female,Belgium,Burned at the Stake,Yes,No
+14,1468,1482,Male,France,Burned at the Stake,No,No
+41,1338,1379,Male,Germany,Tortured,Yes,No
+47,1591,1638,Female,Ireland,Drowned,No,No
+39,1516,1555,Female,Poland,Burned at the Stake,No,No
+43,1300,1343,Male,Germany,Hanged,Yes,Yes
+9,1704,1713,Male,Norway,Burned at the Stake,Yes,Yes
+44,1450,1494,Female,France,Hanged,Yes,No
+51,1494,1545,Male,Poland,Pressed,Yes,No
+27,1521,1548,Female,Austria,Hanged,Yes,Yes
+64,1771,1835,Female,France,Burned at the Stake,No,No
+63,1502,1565,Female,France,Hanged,No,No
+41,1640,1681,Female,Spain,Drowned,Yes,No
+31,1594,1625,Male,Ireland,Hanged,Yes,No
+25,1624,1649,Male,France,Tortured,No,Yes
+57,1472,1529,Female,Germany,Hanged,Yes,No
+53,1500,1553,Female,France,Burned at the Stake,Yes,No
+36,1708,1744,Female,Spain,Drowned,Yes,No
+18,1537,1555,Male,Spain,Burned at the Stake,Yes,No
+27,1572,1599,Female,Spain,Drowned,No,No
+48,1580,1628,Female,Belgium,Drowned,Yes,No
+62,1581,1643,Female,France,Hanged,No,No
+42,1546,1588,Female,Austria,Burned at the Stake,No,No
+34,1800,1834,Male,Scotland,Burned at the Stake,Yes,No
+27,1489,1516,Female,Spain,Drowned,Yes,No
+51,1558,1609,Male,Netherlands,Drowned,No,No
+58,1497,1555,Female,Germany,Burned at the Stake,No,No
+61,1570,1631,Female,Austria,Tortured,Yes,No
+25,1703,1728,Female,Ireland,Tortured,No,Yes
+48,1648,1696,Female,France,Hanged,Yes,No
+61,1300,1361,Male,Estonia,Pressed,Yes,No
+43,1605,1648,Female,Poland,Burned at the Stake,Yes,No
+54,1745,1799,Female,Poland,Drowned,No,Yes
+23,1300,1323,Female,France,Burned at the Stake,No,No
+9,1606,1615,Male,Belgium,Drowned,No,No
+17,1300,1317,Female,Germany,Hanged,No,No
+36,1339,1375,Female,Poland,Hanged,No,No
+59,1800,1859,Female,England,Burned at the Stake,Yes,No
+44,1663,1707,Male,Germany,Burned at the Stake,No,Yes
+56,1462,1518,Female,Germany,Tortured,Yes,Yes
+49,1641,1690,Female,Austria,Hanged,Yes,No
+49,1800,1849,Female,Germany,Burned at the Stake,No,Yes
+68,1369,1437,Male,France,Hanged,No,No
+29,1616,1645,Female,Sweden,Burned at the Stake,No,Yes
+51,1591,1642,Female,England,Burned at the Stake,Yes,No
+36,1585,1621,Female,France,Burned at the Stake,No,Yes
+53,1800,1853,Female,France,Hanged,No,Yes
+47,1747,1794,Male,Sweden,Burned at the Stake,No,Yes
+48,1464,1512,Female,Poland,Burned at the Stake,No,No
+35,1600,1635,Male,Spain,Drowned,Yes,No
+32,1321,1353,Male,France,Hanged,No,No
+25,1503,1528,Female,Ireland,Tortured,Yes,No
+42,1338,1380,Female,Ireland,Drowned,Yes,No
+37,1736,1773,Female,Spain,Tortured,Yes,No
+53,1622,1675,Male,Estonia,Burned at the Stake,No,No
+45,1481,1526,Female,Spain,Burned at the Stake,No,No
+21,1755,1776,Female,Netherlands,Hanged,No,No
+26,1599,1625,Female,Ireland,Hanged,Yes,No
+39,1541,1580,Female,Spain,Burned at the Stake,No,Yes
+44,1457,1501,Male,Spain,Drowned,No,No
+23,1559,1582,Female,Poland,Burned at the Stake,Yes,Yes
+50,1334,1384,Female,Germany,Hanged,Yes,No
+36,1571,1607,Female,Spain,Hanged,Yes,No
+41,1772,1813,Female,France,Burned at the Stake,Yes,No
+26,1300,1326,Female,Estonia,Drowned,Yes,No
+33,1592,1625,Female,Germany,Pressed,Yes,No
+43,1445,1488,Female,Belgium,Hanged,Yes,No
+29,1700,1729,Female,England,Burned at the Stake,No,Yes
+59,1639,1698,Female,France,Drowned,Yes,No
+30,1481,1511,Female,Germany,Drowned,No,No
+44,1581,1625,Female,England,Hanged,Yes,Yes
+27,1603,1630,Female,Poland,Tortured,No,No
+39,1553,1592,Female,Germany,Burned at the Stake,No,No
+29,1662,1691,Female,Germany,Hanged,Yes,Yes
+18,1639,1657,Male,Norway,Tortured,No,No
+46,1344,1390,Male,Spain,Burned at the Stake,No,No
+33,1390,1423,Male,England,Burned at the Stake,Yes,No
+40,1461,1501,Male,Belgium,Hanged,No,No
+21,1450,1471,Male,England,Hanged,Yes,No
+24,1744,1768,Female,Spain,Hanged,No,No
+65,1798,1863,Female,Germany,Burned at the Stake,No,No
+57,1540,1597,Male,Germany,Hanged,Yes,Yes
+52,1566,1618,Female,Belgium,Burned at the Stake,Yes,No
+19,1575,1594,Female,France,Hanged,Yes,No
+53,1618,1671,Male,Belgium,Hanged,No,No
+31,1451,1482,Female,France,Drowned,Yes,No
+37,1579,1616,Male,England,Hanged,Yes,No
+46,1604,1650,Female,Austria,Drowned,Yes,No
+23,1719,1742,Female,England,Drowned,No,No
+20,1546,1566,Female,Sweden,Burned at the Stake,Yes,No
+36,1530,1566,Female,Spain,Hanged,No,Yes
+38,1629,1667,Female,France,Hanged,No,No
+40,1712,1752,Female,Netherlands,Burned at the Stake,No,No
+32,1360,1392,Female,France,Hanged,Yes,No
+38,1710,1748,Female,Ireland,Hanged,No,No
+50,1753,1803,Female,Germany,Pressed,No,No
+45,1732,1777,Female,Spain,Burned at the Stake,No,Yes
+39,1694,1733,Male,France,Burned at the Stake,No,No
+32,1731,1763,Female,France,Hanged,No,No
+48,1595,1643,Female,France,Pressed,Yes,Yes
+50,1606,1656,Female,Estonia,Drowned,No,No
+40,1446,1486,Male,Germany,Hanged,Yes,No
+34,1626,1660,Female,Poland,Drowned,Yes,No
+38,1360,1398,Female,Germany,Burned at the Stake,No,No
+58,1569,1627,Female,Spain,Drowned,Yes,No
+49,1513,1562,Female,Spain,Tortured,Yes,Yes
+66,1506,1572,Female,France,Pressed,Yes,No
+58,1635,1693,Female,France,Drowned,Yes,No
+60,1561,1621,Male,Belgium,Hanged,Yes,No
+43,1585,1628,Female,Austria,Hanged,Yes,No
+38,1499,1537,Female,Germany,Burned at the Stake,Yes,No
+63,1800,1863,Female,Germany,Hanged,Yes,No
+43,1460,1503,Male,England,Drowned,No,No
+36,1633,1669,Female,Netherlands,Drowned,Yes,No
+53,1633,1686,Female,Germany,Hanged,Yes,No
+35,1800,1835,Male,Estonia,Pressed,Yes,No
+21,1769,1790,Female,Germany,Pressed,Yes,No
+39,1476,1515,Male,Scotland,Burned at the Stake,No,No
+51,1742,1793,Male,Germany,Drowned,Yes,No
+37,1738,1775,Female,Estonia,Pressed,No,No
+35,1627,1662,Female,France,Hanged,Yes,No
+58,1480,1538,Female,Austria,Hanged,No,No
+52,1582,1634,Male,Germany,Burned at the Stake,No,No
+30,1645,1675,Male,Scotland,Hanged,Yes,No
+21,1626,1647,Female,France,Hanged,Yes,No
+33,1373,1406,Female,Germany,Hanged,Yes,Yes
+50,1435,1485,Female,Germany,Drowned,Yes,No
+42,1800,1842,Male,Sweden,Hanged,Yes,No
+47,1735,1782,Male,Austria,Pressed,No,Yes
+54,1564,1618,Female,Norway,Tortured,Yes,No
+55,1719,1774,Female,Sweden,Pressed,Yes,No
+52,1495,1547,Male,Spain,Drowned,Yes,No
+48,1704,1752,Female,Germany,Burned at the Stake,Yes,Yes
+83,1407,1490,Male,England,Hanged,No,Yes
+57,1724,1781,Male,Germany,Hanged,Yes,No
+43,1312,1355,Male,Norway,Tortured,No,No
+35,1300,1335,Female,Poland,Hanged,Yes,Yes
+53,1456,1509,Male,Germany,Burned at the Stake,Yes,Yes
+62,1300,1362,Male,Germany,Burned at the Stake,No,Yes
+48,1673,1721,Female,Poland,Burned at the Stake,Yes,No
+29,1549,1578,Female,Germany,Burned at the Stake,Yes,No
+37,1697,1734,Male,Belgium,Pressed,No,No
+30,1602,1632,Male,Spain,Hanged,Yes,No
+68,1782,1850,Male,Poland,Burned at the Stake,Yes,Yes
+52,1613,1665,Female,Germany,Burned at the Stake,Yes,No
+24,1760,1784,Male,Sweden,Burned at the Stake,No,Yes
+39,1592,1631,Female,France,Hanged,Yes,Yes
+26,1318,1344,Male,Spain,Pressed,No,No
+27,1571,1598,Female,Austria,Hanged,Yes,No
+55,1800,1855,Male,Austria,Drowned,No,No
+43,1411,1454,Male,Germany,Tortured,No,No
+41,1402,1443,Female,Austria,Burned at the Stake,Yes,Yes
+39,1800,1839,Female,Germany,Hanged,Yes,No
+67,1408,1475,Male,Spain,Hanged,Yes,No
+9,1516,1525,Female,Poland,Drowned,Yes,No
+41,1419,1460,Female,France,Drowned,No,No
+24,1648,1672,Female,Spain,Tortured,Yes,Yes
+27,1592,1619,Male,Austria,Burned at the Stake,Yes,No
+65,1536,1601,Female,Sweden,Burned at the Stake,Yes,No
+31,1676,1707,Male,Belgium,Drowned,No,Yes
+30,1742,1772,Female,Germany,Burned at the Stake,No,Yes
+71,1639,1710,Female,France,Drowned,Yes,No
+32,1300,1332,Male,France,Hanged,Yes,No
+24,1300,1324,Female,Germany,Drowned,No,No
+65,1377,1442,Male,Germany,Tortured,Yes,Yes
+25,1664,1689,Female,Poland,Hanged,No,No
+19,1533,1552,Female,Belgium,Burned at the Stake,Yes,No
+45,1687,1732,Female,France,Tortured,Yes,Yes
+17,1377,1394,Female,Germany,Hanged,Yes,No
+62,1529,1591,Male,Norway,Pressed,No,No
+46,1379,1425,Female,Estonia,Burned at the Stake,Yes,No
+28,1503,1531,Female,England,Burned at the Stake,Yes,No
+69,1570,1639,Female,Poland,Burned at the Stake,No,No
+27,1532,1559,Male,France,Pressed,Yes,No
+81,1511,1592,Male,Poland,Hanged,Yes,Yes
+31,1771,1802,Female,France,Tortured,Yes,Yes
+23,1607,1630,Female,England,Hanged,Yes,No
+40,1527,1567,Female,Germany,Tortured,No,No
+27,1511,1538,Female,Germany,Pressed,No,No
+48,1627,1675,Female,France,Drowned,Yes,No
+41,1459,1500,Female,England,Pressed,Yes,No
+45,1704,1749,Male,Belgium,Drowned,Yes,No
+55,1558,1613,Female,France,Hanged,Yes,No
+40,1465,1505,Female,Germany,Hanged,No,No
+35,1633,1668,Female,Ireland,Hanged,Yes,No
+75,1489,1564,Female,France,Burned at the Stake,Yes,Yes
+45,1635,1680,Male,Germany,Hanged,Yes,No
+47,1471,1518,Male,Ireland,Burned at the Stake,Yes,Yes
+41,1621,1662,Female,Germany,Hanged,Yes,No
+44,1480,1524,Female,Spain,Burned at the Stake,No,No
+42,1300,1342,Female,Ireland,Hanged,No,No
+9,1455,1464,Female,France,Pressed,Yes,No
+54,1676,1730,Female,France,Tortured,No,Yes
+31,1622,1653,Female,England,Drowned,Yes,Yes
+68,1514,1582,Female,Spain,Burned at the Stake,No,No
+52,1691,1743,Male,Poland,Drowned,Yes,No
+42,1300,1342,Female,Germany,Hanged,No,No
+51,1468,1519,Male,Estonia,Burned at the Stake,No,Yes
+34,1651,1685,Female,France,Burned at the Stake,Yes,No
+46,1300,1346,Female,Netherlands,Burned at the Stake,Yes,No
+56,1573,1629,Male,Scotland,Hanged,Yes,Yes
+55,1555,1610,Female,Austria,Hanged,No,No
+73,1463,1536,Female,Spain,Tortured,Yes,No
+46,1619,1665,Male,France,Hanged,No,No
+24,1612,1636,Male,Spain,Hanged,Yes,No
+20,1661,1681,Female,Spain,Pressed,Yes,No
+59,1527,1586,Female,Germany,Hanged,Yes,No
+51,1309,1360,Male,Sweden,Hanged,No,No
+37,1710,1747,Female,Spain,Burned at the Stake,No,Yes
+41,1386,1427,Male,Scotland,Hanged,No,No
+9,1575,1584,Male,Spain,Pressed,No,No
+27,1400,1427,Female,Poland,Burned at the Stake,No,No
+45,1610,1655,Female,Poland,Drowned,No,No
+59,1516,1575,Female,Poland,Pressed,Yes,No
+40,1732,1772,Female,Austria,Burned at the Stake,No,Yes
+44,1649,1693,Male,Austria,Pressed,No,No
+49,1300,1349,Male,France,Hanged,Yes,No
+44,1476,1520,Female,France,Pressed,No,No
+48,1800,1848,Female,Poland,Burned at the Stake,Yes,No
+33,1681,1714,Male,Germany,Drowned,Yes,No
+61,1800,1861,Male,Scotland,Hanged,Yes,No
+12,1800,1812,Female,Belgium,Drowned,No,No
+45,1667,1712,Female,France,Hanged,No,No
+63,1405,1468,Male,Spain,Burned at the Stake,Yes,No
+40,1366,1406,Female,France,Pressed,Yes,No
+37,1698,1735,Female,France,Hanged,Yes,No
+39,1557,1596,Female,Spain,Drowned,No,Yes
+47,1476,1523,Female,Poland,Hanged,No,Yes
+40,1342,1382,Female,Estonia,Hanged,Yes,Yes
+46,1625,1671,Female,France,Hanged,Yes,Yes
+19,1501,1520,Male,Spain,Drowned,Yes,No
+62,1721,1783,Female,Germany,Pressed,Yes,No
+46,1696,1742,Male,Ireland,Hanged,No,No
+33,1517,1550,Male,Scotland,Pressed,Yes,No
+26,1424,1450,Male,Poland,Hanged,No,No
+68,1732,1800,Male,Scotland,Hanged,Yes,No
+19,1508,1527,Female,Spain,Burned at the Stake,Yes,No
+38,1478,1516,Female,Estonia,Drowned,Yes,No
+79,1541,1620,Male,Estonia,Tortured,Yes,No
+42,1544,1586,Female,Spain,Drowned,Yes,No
+17,1484,1501,Male,England,Burned at the Stake,Yes,No
+50,1433,1483,Male,France,Burned at the Stake,Yes,No
+51,1800,1851,Female,Scotland,Hanged,Yes,No
+44,1646,1690,Female,Spain,Burned at the Stake,Yes,Yes
+47,1515,1562,Male,Norway,Pressed,Yes,No
+78,1631,1709,Female,Estonia,Burned at the Stake,No,No
+69,1627,1696,Female,Norway,Drowned,No,No
+36,1571,1607,Male,England,Burned at the Stake,Yes,No
+19,1673,1692,Male,Poland,Pressed,No,No
+44,1638,1682,Female,Belgium,Hanged,Yes,No
+36,1402,1438,Female,Germany,Hanged,No,No
+55,1749,1804,Female,Germany,Drowned,Yes,No
+45,1488,1533,Female,France,Burned at the Stake,No,No
+44,1627,1671,Female,Germany,Burned at the Stake,No,Yes
+74,1493,1567,Female,Austria,Hanged,Yes,Yes
+33,1527,1560,Female,England,Burned at the Stake,No,No
+26,1346,1372,Female,Germany,Burned at the Stake,Yes,No
+25,1363,1388,Male,Germany,Hanged,Yes,No
+52,1626,1678,Female,Netherlands,Hanged,No,No
+49,1372,1421,Female,Poland,Hanged,Yes,No
+36,1437,1473,Female,France,Burned at the Stake,Yes,No
+63,1336,1399,Male,Austria,Drowned,Yes,No
+58,1640,1698,Male,Spain,Burned at the Stake,No,No
+24,1581,1605,Male,Belgium,Hanged,Yes,No
+77,1575,1652,Female,Germany,Drowned,No,No
+37,1603,1640,Female,Scotland,Hanged,No,Yes
+25,1800,1825,Female,France,Hanged,No,No
+39,1528,1567,Female,Poland,Burned at the Stake,Yes,No
+38,1446,1484,Female,Norway,Burned at the Stake,Yes,No
+13,1750,1763,Female,Spain,Hanged,No,No
+38,1404,1442,Female,France,Hanged,Yes,No
+27,1688,1715,Female,Germany,Burned at the Stake,No,No
+29,1800,1829,Female,Norway,Burned at the Stake,No,No
+62,1476,1538,Female,England,Tortured,Yes,No
+75,1630,1705,Female,France,Burned at the Stake,No,No
+28,1618,1646,Male,Germany,Hanged,Yes,No
+87,1600,1687,Female,Ireland,Burned at the Stake,No,No
+60,1655,1715,Female,Scotland,Hanged,Yes,Yes
+49,1413,1462,Male,Ireland,Drowned,Yes,No
+53,1333,1386,Female,Germany,Burned at the Stake,No,No
+47,1511,1558,Female,Belgium,Tortured,No,No
+31,1672,1703,Male,Austria,Hanged,No,No
+30,1415,1445,Male,Germany,Tortured,No,No
+68,1558,1626,Female,Germany,Drowned,Yes,No
+59,1800,1859,Male,Ireland,Hanged,No,No
+38,1617,1655,Female,Estonia,Burned at the Stake,No,No
+75,1327,1402,Male,Scotland,Burned at the Stake,No,No
+55,1642,1697,Female,France,Burned at the Stake,Yes,Yes
+46,1602,1648,Female,Austria,Burned at the Stake,Yes,No
+34,1716,1750,Male,France,Hanged,Yes,No
+26,1300,1326,Female,Germany,Burned at the Stake,Yes,No
+50,1482,1532,Male,Germany,Drowned,Yes,No
+34,1300,1334,Female,Austria,Hanged,Yes,No
+35,1718,1753,Female,Spain,Tortured,No,No
+47,1506,1553,Female,Germany,Hanged,Yes,No
+24,1300,1324,Female,Ireland,Burned at the Stake,Yes,No
+57,1360,1417,Female,Germany,Burned at the Stake,Yes,No
+38,1300,1338,Male,Germany,Burned at the Stake,Yes,No
+57,1530,1587,Female,France,Drowned,Yes,Yes
+48,1414,1462,Female,France,Burned at the Stake,Yes,No
+42,1562,1604,Female,France,Pressed,Yes,No
+48,1459,1507,Female,Estonia,Hanged,No,Yes
+33,1590,1623,Female,Austria,Burned at the Stake,Yes,No
+45,1300,1345,Female,Germany,Pressed,Yes,No
+46,1503,1549,Female,Austria,Drowned,No,Yes
+55,1574,1629,Female,Germany,Burned at the Stake,Yes,No
+43,1548,1591,Female,Sweden,Burned at the Stake,Yes,Yes
+52,1361,1413,Male,Germany,Tortured,No,No
+35,1552,1587,Male,Ireland,Tortured,Yes,No
+43,1587,1630,Male,Estonia,Burned at the Stake,No,Yes
+47,1725,1772,Male,Germany,Burned at the Stake,Yes,No
+50,1462,1512,Female,Germany,Burned at the Stake,Yes,No
+31,1662,1693,Female,Germany,Pressed,Yes,No
+27,1800,1827,Female,Germany,Burned at the Stake,Yes,Yes
+49,1500,1549,Female,Spain,Burned at the Stake,Yes,No
+54,1578,1632,Female,France,Drowned,No,No
+67,1449,1516,Female,Germany,Pressed,Yes,No
+34,1665,1699,Female,Estonia,Hanged,Yes,No
+63,1408,1471,Female,England,Burned at the Stake,No,Yes
+51,1562,1613,Female,Spain,Hanged,No,No
+67,1559,1626,Female,Poland,Hanged,No,No
+50,1473,1523,Female,Germany,Burned at the Stake,No,Yes
+33,1586,1619,Female,Germany,Hanged,Yes,No
+65,1451,1516,Female,France,Burned at the Stake,Yes,Yes
+39,1630,1669,Female,Austria,Burned at the Stake,Yes,No
+65,1679,1744,Female,France,Hanged,Yes,Yes
+49,1325,1374,Female,Germany,Drowned,No,No
+55,1472,1527,Male,England,Hanged,Yes,Yes
+38,1800,1838,Female,Germany,Pressed,Yes,No
+23,1300,1323,Female,Belgium,Tortured,Yes,No
+64,1685,1749,Female,Austria,Drowned,Yes,Yes
+46,1318,1364,Male,Spain,Burned at the Stake,No,No
+47,1614,1661,Female,Austria,Burned at the Stake,No,No
+50,1409,1459,Female,Germany,Tortured,Yes,No
+35,1328,1363,Female,Spain,Burned at the Stake,Yes,No
+14,1349,1363,Female,Germany,Burned at the Stake,Yes,No
+73,1555,1628,Female,Spain,Drowned,Yes,No
+32,1755,1787,Female,France,Drowned,No,No
+57,1800,1857,Male,England,Burned at the Stake,Yes,No
+59,1387,1446,Female,France,Drowned,No,No
+57,1703,1760,Male,England,Hanged,Yes,No
+35,1747,1782,Female,France,Burned at the Stake,No,No
+25,1694,1719,Female,Germany,Drowned,Yes,No
+48,1444,1492,Female,Spain,Hanged,Yes,No
+37,1684,1721,Female,Spain,Burned at the Stake,No,Yes
+32,1514,1546,Male,Belgium,Pressed,Yes,Yes
+38,1300,1338,Male,Norway,Burned at the Stake,Yes,No
+44,1405,1449,Male,Spain,Burned at the Stake,No,Yes
+54,1438,1492,Female,Spain,Burned at the Stake,Yes,No
+35,1553,1588,Female,Poland,Hanged,Yes,No
+50,1300,1350,Female,France,Hanged,No,No
+39,1367,1406,Male,Spain,Pressed,No,No
+37,1556,1593,Female,Germany,Hanged,Yes,No
+23,1420,1443,Female,Scotland,Hanged,Yes,Yes
+76,1625,1701,Female,France,Burned at the Stake,Yes,Yes
+40,1619,1659,Female,Germany,Tortured,Yes,No
+56,1588,1644,Female,Spain,Hanged,Yes,No
+35,1681,1716,Female,Germany,Burned at the Stake,Yes,No
+34,1370,1404,Female,Germany,Burned at the Stake,Yes,Yes
+67,1469,1536,Male,Spain,Tortured,No,No
+69,1637,1706,Female,Germany,Hanged,Yes,No
+47,1665,1712,Male,France,Burned at the Stake,Yes,Yes
+26,1500,1526,Male,France,Hanged,No,No
+37,1400,1437,Female,France,Burned at the Stake,Yes,Yes
+59,1800,1859,Female,Austria,Drowned,Yes,No
+19,1505,1524,Female,Germany,Hanged,Yes,No
+26,1540,1566,Male,England,Hanged,No,Yes
+33,1395,1428,Male,England,Burned at the Stake,Yes,Yes
+17,1498,1515,Male,Germany,Hanged,Yes,No
+67,1586,1653,Female,England,Hanged,No,Yes
+64,1300,1364,Female,Scotland,Hanged,No,No
+9,1300,1309,Male,Scotland,Hanged,Yes,No
+34,1670,1704,Male,France,Drowned,Yes,Yes
+39,1800,1839,Female,Germany,Drowned,Yes,No
+33,1578,1611,Male,France,Burned at the Stake,Yes,Yes
+10,1523,1533,Male,France,Burned at the Stake,Yes,Yes
+49,1634,1683,Female,Ireland,Drowned,No,No
+72,1693,1765,Female,Spain,Drowned,Yes,No
+64,1716,1780,Female,France,Tortured,Yes,No
+39,1399,1438,Male,France,Pressed,No,Yes
+47,1648,1695,Female,Germany,Burned at the Stake,Yes,No
+51,1466,1517,Male,Austria,Hanged,No,No
+51,1609,1660,Male,Estonia,Burned at the Stake,No,Yes
+20,1800,1820,Female,Estonia,Drowned,Yes,Yes
+55,1572,1627,Male,England,Hanged,Yes,Yes
+73,1800,1873,Female,Spain,Hanged,Yes,No
+10,1588,1598,Female,France,Pressed,No,No
+25,1800,1825,Male,England,Hanged,No,No
+55,1800,1855,Male,Germany,Drowned,Yes,Yes
+34,1530,1564,Male,Poland,Burned at the Stake,Yes,No
+47,1580,1627,Female,Spain,Drowned,No,No
+48,1300,1348,Female,France,Burned at the Stake,Yes,Yes
+41,1516,1557,Female,Spain,Hanged,No,No
+57,1504,1561,Male,Germany,Pressed,Yes,Yes
+44,1531,1575,Female,Austria,Burned at the Stake,Yes,Yes
+31,1573,1604,Male,Austria,Burned at the Stake,Yes,No
+50,1690,1740,Male,Estonia,Hanged,Yes,Yes
+20,1794,1814,Female,France,Hanged,No,No
+22,1667,1689,Female,France,Hanged,Yes,No
+37,1768,1805,Female,England,Tortured,No,No
+43,1396,1439,Female,Germany,Hanged,Yes,No
+54,1511,1565,Female,France,Hanged,No,No
+31,1587,1618,Male,Spain,Hanged,Yes,No
+46,1800,1846,Female,France,Hanged,No,No
+62,1449,1511,Female,Netherlands,Burned at the Stake,Yes,No
+44,1493,1537,Female,Netherlands,Burned at the Stake,No,No
+63,1417,1480,Male,Belgium,Burned at the Stake,Yes,No
+56,1464,1520,Female,Austria,Hanged,No,Yes
+39,1611,1650,Female,Belgium,Burned at the Stake,No,Yes
+17,1396,1413,Male,Estonia,Hanged,Yes,No
+46,1585,1631,Female,Germany,Burned at the Stake,No,Yes
+41,1602,1643,Male,Scotland,Burned at the Stake,No,No
+29,1503,1532,Female,England,Burned at the Stake,Yes,No
+52,1611,1663,Female,Spain,Burned at the Stake,No,Yes
+26,1742,1768,Female,France,Drowned,No,No
+21,1519,1540,Male,Scotland,Burned at the Stake,No,Yes
+56,1581,1637,Female,Sweden,Burned at the Stake,Yes,No
+52,1563,1615,Female,Austria,Burned at the Stake,Yes,No
+55,1300,1355,Female,Ireland,Hanged,Yes,No
+57,1403,1460,Female,Scotland,Hanged,Yes,No
+31,1452,1483,Female,Belgium,Hanged,Yes,Yes
+34,1471,1505,Female,France,Burned at the Stake,No,No
+33,1555,1588,Female,France,Burned at the Stake,Yes,No
+22,1576,1598,Male,Austria,Burned at the Stake,No,Yes
